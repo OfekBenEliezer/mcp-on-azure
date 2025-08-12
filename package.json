@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@azure/storage-blob": "^12.27.0",
+    "axios": "^1.10.0",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "openai": "^5.10.1"
+  }
+}
